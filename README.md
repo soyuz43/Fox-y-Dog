@@ -1,5 +1,3 @@
-Here’s a minimal `README.md` for your project:
-
 # Fox y Dog
 
 A simple project that dynamically fetches and displays random images of a fox and a dog using the Fetch API and `async/await`.
